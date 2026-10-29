@@ -25,7 +25,11 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
-- [All videos on YouTube](https://www.youtube.com/@ZvonimirFras)
+- [Why can&#39;t a robot fold your laundry? | Moravec&#39;s Mile ep. 1](https://www.youtube.com/watch?v=UkDYq0Xirlo)
+- [99% or 62%: is one of them lying?](https://www.youtube.com/shorts/KKjqoHO5-sw)
+- [Wheels vs legs: who&#39;s winning the laundry robot race?](https://www.youtube.com/shorts/BdPEyaNjCO0)
+- [How close is a laundry robot?](https://www.youtube.com/shorts/AxGCaYkGfAc)
+
 <!-- YOUTUBE:END -->
 
 ### From the newsletter
