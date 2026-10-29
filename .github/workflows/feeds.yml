@@ -1,0 +1,39 @@
+name: Latest videos and newsletter posts
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true
+        with:
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCfL9H1cYGoEV_c1yok53kCQ"
+          comment_tag_name: "YOUTUBE"
+          max_post_count: 4
+          template: "- [$title]($url)$newline"
+          commit_message: "Update latest videos"
+          retry_count: 3
+          retry_wait_time: 30
+
+      - name: Latest newsletter posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        continue-on-error: true
+        with:
+          feed_list: "https://www.curiositylabz.com/rss/"
+          max_post_count: 4
+          template: "- [$title]($url)$newline"
+          commit_message: "Update latest newsletter posts"
+          enable_keepalive: false
+          retry_count: 3
+          retry_wait_time: 30
