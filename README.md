@@ -30,8 +30,10 @@ I've been shipping software since I was 16. These days I split my time between b
 
 ### From the newsletter
 
-<!-- BLOG-POST-LIST:START -->
-- [Z's Curiosity Lab](https://www.curiositylabz.com)
+<!-- BLOG-POST-LIST:START -->- [Reflecting on My 2025 AI Predictions: Hits, Misses, and Surprises](https://www.curiositylabz.com/reflecting-on-my-2025-ai-predictions-hits-misses-and-surprises/)
+- [New mini-series: future tech that exists today](https://www.curiositylabz.com/new-mini-series-future-tech-that-exists-today/)
+- [The 6 Levels of Awareness &lpar;and where you fit&rpar;](https://www.curiositylabz.com/the-6-levels-of-awareness-and-where-you-fit/)
+- [Not having a quest is making you stressed. Here&#39;s the science.](https://www.curiositylabz.com/not-having-a-quest-is-making-you-stressed-here-s-the-science/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Elsewhere
