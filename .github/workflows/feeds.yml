@@ -12,7 +12,7 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - name: Latest YouTube videos
         uses: gautamkrishnar/blog-post-workflow@v1
@@ -22,6 +22,7 @@ jobs:
           comment_tag_name: "YOUTUBE"
           max_post_count: 4
           template: "- [$title]($url)$newline"
+          tag_post_pre_newline: true
           commit_message: "Update latest videos"
           retry_count: 3
           retry_wait_time: 30
@@ -33,6 +34,7 @@ jobs:
           feed_list: "https://www.curiositylabz.com/rss/"
           max_post_count: 4
           template: "- [$title]($url)$newline"
+          tag_post_pre_newline: true
           commit_message: "Update latest newsletter posts"
           enable_keepalive: false
           retry_count: 3
