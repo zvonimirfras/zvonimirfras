@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [Amazon beat a $73M robot without building one](https://www.youtube.com/shorts/sw4Jq9kizKE)
 - [They raised $73M! Then this robot announced its own death](https://www.youtube.com/shorts/P7ow8tH2UKc)
 - [Why can&#39;t a robot fold your laundry? | Moravec&#39;s Mile ep. 1](https://www.youtube.com/watch?v=UkDYq0Xirlo)
 - [99% or 62%: is one of them lying?](https://www.youtube.com/shorts/KKjqoHO5-sw)
-- [Wheels vs legs: who&#39;s winning the laundry robot race?](https://www.youtube.com/shorts/BdPEyaNjCO0)
 
 <!-- YOUTUBE:END -->
 
