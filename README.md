@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [Why giving a robot a face can make it worse](https://www.youtube.com/shorts/vOVTnz--uQY)
 - [When the robot&#39;s brain isn&#39;t local](https://www.youtube.com/shorts/oDio1fj_n6U)
 - [Amazon beat a $73M robot without building one](https://www.youtube.com/shorts/sw4Jq9kizKE)
 - [They raised $73M! Then this robot announced its own death](https://www.youtube.com/shorts/P7ow8tH2UKc)
-- [Why can&#39;t a robot fold your laundry? | Moravec&#39;s Mile ep. 1](https://www.youtube.com/watch?v=UkDYq0Xirlo)
 
 <!-- YOUTUBE:END -->
 
