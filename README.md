@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [A question you must ask before buying](https://www.youtube.com/shorts/x5xCik5wrN8)
+- [Jibo: robot prices for smart-speaker jobs](https://www.youtube.com/shorts/JmzRb4WW7fw)
 - [You own the robot. They decide when it dies](https://www.youtube.com/shorts/qyN4-i5O1nE)
 - [Why giving a robot a face can make it worse](https://www.youtube.com/shorts/vOVTnz--uQY)
-- [When the robot&#39;s brain isn&#39;t local](https://www.youtube.com/shorts/oDio1fj_n6U)
-- [Amazon beat a $73M robot without building one](https://www.youtube.com/shorts/sw4Jq9kizKE)
 
 <!-- YOUTUBE:END -->
 
