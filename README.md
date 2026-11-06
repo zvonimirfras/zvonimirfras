@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [Owners held funerals for their robot dogs](https://www.youtube.com/shorts/Ks7ysKkNcIs)
 - [3 questions to ask before you preorder any robot](https://www.youtube.com/shorts/Gr9ulzhb5tk)
 - [Jibo could have lived if it had left the kitchen](https://www.youtube.com/shorts/Rj1f76kTwL0)
 - [A question you must ask before buying](https://www.youtube.com/shorts/x5xCik5wrN8)
-- [Jibo: robot prices for smart-speaker jobs](https://www.youtube.com/shorts/JmzRb4WW7fw)
 
 <!-- YOUTUBE:END -->
 
