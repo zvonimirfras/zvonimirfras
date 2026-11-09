@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [Too early killed them. Too late killed Jibo.](https://www.youtube.com/shorts/LoTHb9qU6Kc)
 - [This robot died twice](https://www.youtube.com/shorts/rK6_7I7ZebU)
 - [The $73M robot that announced its own death](https://www.youtube.com/watch?v=IR2DLBV6tEs)
 - [Owners held funerals for their robot dogs](https://www.youtube.com/shorts/Ks7ysKkNcIs)
-- [3 questions to ask before you preorder any robot](https://www.youtube.com/shorts/Gr9ulzhb5tk)
 
 <!-- YOUTUBE:END -->
 
