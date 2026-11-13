@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [Close your eyes. Your ankles are doing this.](https://www.youtube.com/shorts/9GXtU_BEMZ8)
 - [$2 million prize. The robots fell like dominoes.](https://www.youtube.com/shorts/5sFzP_SPpVY)
 - [Thousands of robots fell so one could walk](https://www.youtube.com/shorts/HG5lDod5824)
 - [This robot&#39;s brain is an old phone](https://www.youtube.com/shorts/EMuHt12nnjk)
-- [Too early killed them. Too late killed Jibo.](https://www.youtube.com/shorts/LoTHb9qU6Kc)
 
 <!-- YOUTUBE:END -->
 
