@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [A perfect simulation makes a robot that falls over](https://www.youtube.com/shorts/TIeoJ9T7WBQ)
 - [Walking robots got cheap. Laundry robots didn&#39;t.](https://www.youtube.com/shorts/eIGF-Bltz78)
 - [This robot dog walked like a puppy. It still got pulled.](https://www.youtube.com/shorts/NLOKFilfRqM)
 - [Close your eyes. Your ankles are doing this.](https://www.youtube.com/shorts/9GXtU_BEMZ8)
-- [$2 million prize. The robots fell like dominoes.](https://www.youtube.com/shorts/5sFzP_SPpVY)
 
 <!-- YOUTUBE:END -->
 
