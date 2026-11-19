@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [It breaks. 35 minutes later it walks again.](https://www.youtube.com/shorts/yTNEnAOQ38k)
 - [If a startup pitches me a walking robot](https://www.youtube.com/shorts/wXg3BPn0r9g)
 - [A perfect simulation makes a robot that falls over](https://www.youtube.com/shorts/TIeoJ9T7WBQ)
 - [Walking robots got cheap. Laundry robots didn&#39;t.](https://www.youtube.com/shorts/eIGF-Bltz78)
-- [This robot dog walked like a puppy. It still got pulled.](https://www.youtube.com/shorts/NLOKFilfRqM)
 
 <!-- YOUTUBE:END -->
 
