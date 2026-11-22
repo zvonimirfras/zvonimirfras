@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [He recommended it - This is why](https://www.youtube.com/shorts/0PCwXq1kDwM)
 - [It&#39;s under their control??](https://www.youtube.com/shorts/CEbmf3XRjKU)
 - [It breaks. 35 minutes later it walks again.](https://www.youtube.com/shorts/yTNEnAOQ38k)
 - [If a startup pitches me a walking robot](https://www.youtube.com/shorts/wXg3BPn0r9g)
-- [A perfect simulation makes a robot that falls over](https://www.youtube.com/shorts/TIeoJ9T7WBQ)
 
 <!-- YOUTUBE:END -->
 
