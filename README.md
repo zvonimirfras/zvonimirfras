@@ -31,10 +31,10 @@ I've been shipping software since I was 16. These days I split my time between b
 ### Latest videos
 
 <!-- YOUTUBE:START -->
+- [Why you can suddenly buy a walking robot for $399](https://www.youtube.com/watch?v=bXZuZHejRdQ)
 - [Two robot ducks: one assembled, one you build](https://www.youtube.com/shorts/3u8j38nb9nA)
 - [He recommended it - This is why](https://www.youtube.com/shorts/0PCwXq1kDwM)
 - [It&#39;s under their control??](https://www.youtube.com/shorts/CEbmf3XRjKU)
-- [It breaks. 35 minutes later it walks again.](https://www.youtube.com/shorts/yTNEnAOQ38k)
 
 <!-- YOUTUBE:END -->
 
